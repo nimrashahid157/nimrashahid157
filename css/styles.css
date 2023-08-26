@@ -1,0 +1,154 @@
+.topnav {
+   background-color: rgb(120, 167, 89);
+height: 400px;
+width: 1350px;
+overflow: hidden;
+}
+
+.coding a {
+float: right;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.coding :hover {
+background-color: rgb(128, 128, 128);
+color: black;
+}
+
+.heading p {
+   font-size: 15px;
+font-weight: bolder;
+float: left;
+color: black;
+text-transform: uppercase;
+letter-spacing: 1.5px;
+}
+
+.topnav h1 {
+padding-top: 100px;
+padding-left: 30px;
+text-align: left;
+font-size: 40px;
+}
+
+.topnav h5 {
+padding-top: 0px;
+padding-left: 40px;
+font-size: 15px;
+}
+
+.topnav a {
+background-color: black;
+color: antiquewhite;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+padding: 15px 25px;
+}
+
+.topnav a :hover {
+background-color:#add;
+color: black;
+}
+
+.topnav img {
+float: right;
+padding-bottom: 30px;
+object-fit: contain;
+margin-top: -280px;
+}
+
+h4 {
+text-align: center;
+color: rgb(146, 46, 15);
+font-size: 15px;
+}
+
+h3 {
+text-align: center;
+color: black;
+}
+
+.types {
+   display: flex;
+}
+
+.first {
+width: 200px;
+height: 300px;
+background-color: rgb(23, 187, 138);
+margin-left: 110px;
+object-fit: contain;
+}
+
+.second {
+   width: 200px;
+   height: 300px;
+   background-color: rgb(156, 111, 146);
+   margin-left: 110px;
+   object-fit: contain;
+}
+
+.third {
+   width: 200px;
+   height: 300px;
+   background-color: rgb(46, 124, 148);
+   margin-left: 110px;
+   object-fit: contain;
+}
+
+.fourth {
+   width: 200px;
+   height: 300px;
+   background-color: rgb(235, 105, 53);
+   margin-left: 110px;
+   object-fit: contain;
+
+}
+
+.image {
+padding-top: 30px;
+padding-inline: 10px;
+}
+
+.hockey {
+padding-top: 20px;
+padding-inline: 10px;
+}
+
+.swimmingpool {
+padding-top: 30px;
+padding-inline: 10px;
+}
+
+.badminton {
+padding-top: 30px;
+padding-inline: 10px;
+}
+
+.football {
+padding-inline: 50px;
+}
+
+.hockeyimage {
+   padding-inline: 40px;
+   }
+
+.swimmingpoolimage {
+   padding-inline: 40px;
+}
+
+.badmintonimage {
+   padding-inline: 30px;
+
+}
+
+
+
+
+
+
